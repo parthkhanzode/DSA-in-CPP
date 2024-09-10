@@ -1,0 +1,3 @@
+int *p, q; What does both of these terms signify?
+Solution :
+p is a pointer and q is an integer. * is grouped with variables, not data types.

@@ -1,0 +1,4 @@
+The minimum number of functions in any C++ program is:
+Solution:
+1
+The main function itself.
